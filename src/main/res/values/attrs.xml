@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="tt_adbannerview">
+        <attr name="tt_adbbaner_forward_pic" format="integer" />
+        <attr name="tt_adbbaner_forward_title" format="string" />
+    </declare-styleable>
+</resources>
