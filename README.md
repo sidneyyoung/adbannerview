@@ -12,4 +12,4 @@
     </com.example.myapplication.widget.adbannerview.AdBannerView>
     
 ## 展示
-![](https://github.com/sidneyyoung/adbannerview/bak/展示.png)
+![展示](bak/展示.png)
